@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mukambar's Personal Site</title>
+</head>
+<body style="background-color: rgb(247, 247, 247);">
+    <table cellspacing="20">
+        <tr>
+            <td>
+                <img src="images/this1.png" alt="Mukambar's profile picture" width="150px">
+            </td>
+            <td>
+                <h1>Mukambar Karimova</h1>
+                <p> <em> Student </em> at <a href="https://inha.uz/">INHA University in Tashkent</a></p>
+                <p>I am a Web Developer. I ❤️ plants and animals.</p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+
+    <h3>Work Experience</h3>
+    <ul>
+        <li>Scratch Instructor at CodeCraft</li>
+        <li>Web Instructor at CodeCraft</li>
+    </ul>
+    <hr>
+
+    <!-- <h3>Participant</h3>
+    <table border="1px" cellspacing="5">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Event</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>July, 2016</td>
+                <td>KAIST University Program </td>
+            </tr>
+            <tr>
+                <td>August, 2016</td>
+                <td>UNIST University Program 2016</td>
+            </tr>
+            <tr>
+                <td>January-June, 2017</td>
+                <td>Technovation Challenge Uzbekistan </td>
+            </tr>
+            <tr>
+                <td>June, 2018</td>
+                <td>Youngnam University Program</td>
+            </tr>
+        </tbody>
+        
+    </table>
+    <hr>
+    <h3>Volunteer</h3>
+    <table border="1px" cellspacing="5">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Event</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>September, 2018</td>
+                <td>ICTWeek2018</td>
+            </tr>
+            <tr>
+                <td>November, 2018</td>
+                <td>GoogleDevFest2018</td>
+            </tr>
+            <tr>
+                <td>November, 2018</td>
+                <td>Hackathon</td>
+            </tr>
+            <tr>
+                <td>January 15-17, 2020</td>
+                <td>Touch Math</td>
+            </tr>
+        </tbody>
+        
+    </table>
+    <hr> -->
+
+    <h3>Mentoring</h3>
+     <table  cellspacing="10">  <!-- border="1px" -->
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Event</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mrach, 2019</td>
+                <td>DigiGirls Uzbekistan 2019</td>
+            </tr>
+            <tr>
+                <td>October, 2019</td>
+                <td>Hour Of Code Sukok 2019</td>
+            </tr>
+            <tr>
+                <td>February, 2020</td>
+                <td>Hour Of Code Al-Khorazmiy School 2020</td>
+            </tr>
+        </tbody>
+        
+    </table>
+    <hr>
+
+    <h3>Skills</h3>
+    <!-- <table>
+        <tr>
+            <td>
+                <table cellspacing="5">
+                    <tr>
+                        <td>Web Developer</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Instructor</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+            
+            <td>
+                <table cellspacing="5">
+                    <tr>
+                        <td>SMM</td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Assistant</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table> -->
+
+    <table cellspacing="10">
+        <tr>
+            <td>Web Developer</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>SMM</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+    </table>
+    <hr>
+    <br>
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="contact-me.html">Contact Me</a>
+    <br><br>
+</body>
+</html>
